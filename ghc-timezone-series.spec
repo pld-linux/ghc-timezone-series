@@ -1,12 +1,12 @@
 %define		pkgname	timezone-series
 Summary:	A Haskell binding to the timezone-series graphics library
 Name:		ghc-%{pkgname}
-Version:	0.1.2
+Version:	0.1.9
 Release:	1
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
-# Source0-md5:	001bf49010b5b67ea00cebe989e6c3a5
+# Source0-md5:	e2ffcf874ed7043bc73f406cf53c22cf
 URL:		http://hackage.haskell.org/package/timezone-series/
 BuildRequires:	ghc >= 6.12.3
 BuildRequires:	rpmbuild(macros) >= 1.608
