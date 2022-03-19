@@ -2,7 +2,7 @@
 Summary:	A Haskell binding to the timezone-series graphics library
 Name:		ghc-%{pkgname}
 Version:	0.1.9
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
